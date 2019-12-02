@@ -1,3 +1,4 @@
+---
 title: "finalfusion"
 excerpt: "Rust crate to interface with word embeddings."
 collection: software
