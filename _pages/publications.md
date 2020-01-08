@@ -7,7 +7,7 @@ author_profile: true
 
 *Talks*
 
-* Sebastian Pütz, Insights into Subword Embeddings, <a href="https://parsingsemcompworkshop.github.io/">Workshop on Data-driven Approaches to Parsing and Semantic Composition</a> (Tübingen 2019) <a href="https://sebpuetz.github.io/publications/sem-pars-pres.pdf">Slides</a>
+* Sebastian Pütz, Insights into Subword Embeddings, <a href="https://parsingsemcompworkshop.github.io/">Workshop on Data-driven Approaches to Parsing and Semantic Composition</a> (Tübingen 2019) <a href="https://sebpuetz.github.io/files/subwords-pres.pdf">Slides</a>
 
 *Publications*
 
