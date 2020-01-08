@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Talks"
 permalink: /publications/
 author_profile: true
 ---
+
+*Talks*
+
+* Sebastian Pütz, Insights into Subword Embeddings, <a href="https://parsingsemcompworkshop.github.io/">Workshop on Data-driven Approaches to Parsing and Semantic Composition</a> (Tübingen 2019) <a href="https://sebpuetz.github.io/publications/sem-pars-pres.pdf">Slides</a>
+
+*Publications*
 
 * Patricia Fischer, Sebastian Pütz, Daniël de Kok, Association metrics in neural transition-based dependency parsing, Proceedings of the Fifth International Conference on Dependency Linguistics (Depling, SyntaxFest 2019). <a href="https://www.aclweb.org/anthology/W19-7722.pdf">PDF</a>
 * Daniël de Kok, Sebastian Pütz, [Tüba-D/DP Stylebook](https://sfb833-a3.github.io/tueba-ddp/).
