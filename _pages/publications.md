@@ -17,4 +17,4 @@ author_profile: true
 
 *Theses*
 
-* Sebastian Pütz, Enriching-Topological Field Tagging with Clause Information, BA Thesis, supervised by Daniël de Kok, Universität Tübingen, 2019. <a href="https://sebpuetz.github.io/files/Enriching-Topological-Field-Tagging-With-Clause-Information.pdf>PDF</a>.
+* Sebastian Pütz, Enriching-Topological Field Tagging with Clause Information, BA Thesis, supervised by Daniël de Kok, Universität Tübingen, 2019. <a href="https://sebpuetz.github.io/files/Enriching-Topological-Field-Tagging-With-Clause-Information.pdf">PDF</a>.
