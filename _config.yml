@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sebastian Pütz"
   avatar           : "profile.png"
-  bio              : "Doctoral student in Computational Linguistics"
+  bio              : "Rust and Python Developer"
   location         : "Tübingen"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "sebastian.puetz [at] uni-tuebingen [dot] de"
+  email            : "me [at] sebpuetz [dot] eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
